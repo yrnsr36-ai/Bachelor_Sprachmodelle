@@ -1,0 +1,1140 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Gesprchsphasen|Abschlussphase|Anfangsphase|Argumentationsphase|Beschlussphase|Informationsphase|Kommentar|Sonstiges
+#T_SP=webanno.custom.Gesprchstechniken|Kommentar|Paraphrasieren|Strukturieren|Verbalisieren
+
+
+#Text=E: Sehr geehrte Frau Kreis, ich hoffe Ihnen geht es gut.
+1-1	0-1	E	_	_	_	_	_	_	_	_	_	_	_	
+1-2	1-2	:	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-3	3-7	Sehr	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-4	8-15	geehrte	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-5	16-20	Frau	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-6	21-26	Kreis	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-7	26-27	,	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-8	28-31	ich	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-9	32-37	hoffe	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-10	38-43	Ihnen	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-11	44-48	geht	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-12	49-51	es	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-13	52-55	gut	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+1-14	55-56	.	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	_	_	_	_	
+
+#Text=Sie hatten mich letztens im Hausaufgabenheft um eine Sprechstunde bezüglich Samaras Leistungen in Englisch gebeten.
+2-1	57-60	Sie	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-2	61-67	hatten	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-3	68-72	mich	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-4	73-81	letztens	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-5	82-84	im	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-6	85-101	Hausaufgabenheft	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-7	102-104	um	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-8	105-109	eine	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-9	110-122	Sprechstunde	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-10	123-132	bezüglich	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-11	133-140	Samaras	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-12	141-151	Leistungen	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-13	152-154	in	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-14	155-163	Englisch	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-15	164-171	gebeten	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+2-16	171-172	.	*[2]	Inhaltlicher Rahmen[2]	*[2]	*[2]	*[2]	*[2]	*[2]	_	_	_	_	
+
+#Text=Können Sie mir dazu mehr erläutern?
+3-1	173-179	Können	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	_	_	_	_	
+3-2	180-183	Sie	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	_	_	_	_	
+3-3	184-187	mir	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	_	_	_	_	
+3-4	188-192	dazu	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	_	_	_	_	
+3-5	193-197	mehr	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	_	_	_	_	
+3-6	198-207	erläutern	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	_	_	_	_	
+3-7	207-208	?	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	_	_	_	_	
+
+#Text=Mit freundlichen Grüßen, Jana Grün
+4-1	209-212	Mit	*[4]	Sonstiges[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+4-2	213-225	freundlichen	*[4]	Sonstiges[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+4-3	226-232	Grüßen	*[4]	Sonstiges[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+4-4	232-233	,	*[4]	Sonstiges[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+4-5	234-238	Jana	*[4]	Sonstiges[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+4-6	239-243	Grün	*[4]	Sonstiges[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+
+#Text=L: Sehr geehrte Frau Grün, vielen Dank, dass Sie sich Zeit genommen haben, um mit mir über Samara zu sprechen.
+5-1	244-245	L	_	_	_	_	_	_	_	_	_	_	_	
+5-2	245-246	:	_	_	_	_	_	_	_	_	_	_	_	
+5-3	247-251	Sehr	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-4	252-259	geehrte	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-5	260-264	Frau	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-6	265-269	Grün	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-7	269-270	,	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-8	271-277	vielen	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-9	278-282	Dank	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-10	282-283	,	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-11	284-288	dass	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-12	289-292	Sie	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-13	293-297	sich	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-14	298-302	Zeit	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-15	303-311	genommen	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-16	312-317	haben	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-17	317-318	,	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-18	319-321	um	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-19	322-325	mit	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-20	326-329	mir	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-21	330-334	über	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-22	335-341	Samara	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-23	342-344	zu	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-24	345-353	sprechen	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+5-25	353-354	.	*[5]	Begrüßung[5]	*[5]	*[5]	*[5]	*[5]	*[5]	*[33]	*[33]	*[33]	Statement[33]	
+
+#Text=Sie haben Recht, ich möchte gern über die Leistungen ihrer Tochter im Fach Englisch reden.
+6-1	355-358	Sie	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-2	359-364	haben	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-3	365-370	Recht	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-4	370-371	,	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-5	372-375	ich	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-6	376-382	möchte	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-7	383-387	gern	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-8	388-392	über	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-9	393-396	die	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-10	397-407	Leistungen	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-11	408-413	ihrer	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-12	414-421	Tochter	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-13	422-424	im	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-14	425-429	Fach	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-15	430-438	Englisch	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-16	439-444	reden	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+6-17	444-445	.	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[34]	*[34]	Strukturieren[34]	*[34]	
+
+#Text=Leider ist mir aufgefallen, dass die schriftlichen Arbeiten ihrer Tochter zunehmend schlechter ausfallen und auch die mündlichen Leistungen gehen stark zurück.
+7-1	446-452	Leider	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-2	453-456	ist	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-3	457-460	mir	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-4	461-472	aufgefallen	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-5	472-473	,	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-6	474-478	dass	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-7	479-482	die	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-8	483-496	schriftlichen	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-9	497-505	Arbeiten	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-10	506-511	ihrer	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-11	512-519	Tochter	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-12	520-529	zunehmend	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-13	530-540	schlechter	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-14	541-550	ausfallen	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-15	551-554	und	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-16	555-559	auch	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-17	560-563	die	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-18	564-574	mündlichen	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-19	575-585	Leistungen	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-20	586-591	gehen	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-21	592-597	stark	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-22	598-604	zurück	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	*[35]	*[35]	*[35]	Statement[35]	
+7-23	604-605	.	_	_	_	_	_	_	_	*[35]	*[35]	*[35]	Statement[35]	
+
+#Text=Ist Ihnen das auch aufgefallen?
+8-1	606-609	Ist	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	*[36]	*[36]	Strukturieren[36]	*[36]	
+8-2	610-615	Ihnen	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	*[36]	*[36]	Strukturieren[36]	*[36]	
+8-3	616-619	das	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	*[36]	*[36]	Strukturieren[36]	*[36]	
+8-4	620-624	auch	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	*[36]	*[36]	Strukturieren[36]	*[36]	
+8-5	625-636	aufgefallen	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	*[36]	*[36]	Strukturieren[36]	*[36]	
+8-6	636-637	?	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	*[36]	*[36]	Strukturieren[36]	*[36]	
+
+#Text=E: Vielen Dank für Ihr Feedback!
+9-1	638-639	E	_	_	_	_	_	_	_	_	_	_	_	
+9-2	639-640	:	_	_	_	_	_	_	_	_	_	_	_	
+9-3	641-647	Vielen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+9-4	648-652	Dank	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+9-5	653-656	für	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+9-6	657-660	Ihr	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+9-7	661-669	Feedback	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+9-8	669-670	!	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+
+#Text=Auch mir ist bereits aufgefallen, dass Samaras Leistungen im Englischunterricht seit diesem Jahr abgefallen sind.
+10-1	671-675	Auch	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-2	676-679	mir	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-3	680-683	ist	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-4	684-691	bereits	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-5	692-703	aufgefallen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-6	703-704	,	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-7	705-709	dass	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-8	710-717	Samaras	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-9	718-728	Leistungen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-10	729-731	im	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-11	732-750	Englischunterricht	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-12	751-755	seit	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-13	756-762	diesem	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-14	763-767	Jahr	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-15	768-778	abgefallen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-16	779-783	sind	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+10-17	783-784	.	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+
+#Text=Letztes Jahr war sie sehr motiviert und hatte sehr gute Noten im Englischunterricht.
+11-1	785-792	Letztes	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-2	793-797	Jahr	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-3	798-801	war	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-4	802-805	sie	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-5	806-810	sehr	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-6	811-820	motiviert	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-7	821-824	und	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-8	825-830	hatte	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-9	831-835	sehr	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-10	836-840	gute	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-11	841-846	Noten	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-12	847-849	im	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-13	850-868	Englischunterricht	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+11-14	868-869	.	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+
+#Text=Kann es sein, dass das daran liegt das die Anforderungen in dieser Jahrgangsstufe enorm gestiegen sind?
+12-1	870-874	Kann	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-2	875-877	es	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-3	878-882	sein	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-4	882-883	,	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-5	884-888	dass	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-6	889-892	das	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-7	893-898	daran	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-8	899-904	liegt	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-9	905-908	das	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-10	909-912	die	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-11	913-926	Anforderungen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-12	927-929	in	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-13	930-936	dieser	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-14	937-951	Jahrgangsstufe	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-15	952-957	enorm	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-16	958-967	gestiegen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-17	968-972	sind	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+12-18	972-973	?	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+
+#Text=L: Ihnen sind die abfallenden Leistungen ebenfalls aufgefallen.
+13-1	974-975	L	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+13-2	975-976	:	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	_	_	_	_	
+13-3	977-982	Ihnen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+13-4	983-987	sind	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+13-5	988-991	die	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+13-6	992-1003	abfallenden	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+13-7	1004-1014	Leistungen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+13-8	1015-1024	ebenfalls	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+13-9	1025-1036	aufgefallen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+13-10	1036-1037	.	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+
+#Text=Die Ursachen dafür können vielfältig sein.
+14-1	1038-1041	Die	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[38]	*[38]	Strukturieren[38]	*[38]	
+14-2	1042-1050	Ursachen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[38]	*[38]	Strukturieren[38]	*[38]	
+14-3	1051-1056	dafür	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[38]	*[38]	Strukturieren[38]	*[38]	
+14-4	1057-1063	können	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[38]	*[38]	Strukturieren[38]	*[38]	
+14-5	1064-1074	vielfältig	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[38]	*[38]	Strukturieren[38]	*[38]	
+14-6	1075-1079	sein	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[38]	*[38]	Strukturieren[38]	*[38]	
+14-7	1079-1080	.	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[38]	*[38]	Strukturieren[38]	*[38]	
+
+#Text=Dass das gestiegene Niveau seit dem letzten Schuljahr ein Grund für Samaras Probleme ist, ist auch für mich denkbar.
+15-1	1081-1085	Dass	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-2	1086-1089	das	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-3	1090-1100	gestiegene	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-4	1101-1107	Niveau	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-5	1108-1112	seit	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-6	1113-1116	dem	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-7	1117-1124	letzten	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-8	1125-1134	Schuljahr	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-9	1135-1138	ein	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-10	1139-1144	Grund	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-11	1145-1148	für	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-12	1149-1156	Samaras	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-13	1157-1165	Probleme	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-14	1166-1169	ist	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-15	1169-1170	,	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-16	1171-1174	ist	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-17	1175-1179	auch	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-18	1180-1183	für	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-19	1184-1188	mich	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-20	1189-1196	denkbar	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+15-21	1196-1197	.	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+
+#Text=Der Englischunterricht der 4. Klasse erfordert mehr eigenständiges Anwenden von Sprache und weniger Nachsprechen und Auswendiglernen.
+16-1	1198-1201	Der	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-2	1202-1220	Englischunterricht	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-3	1221-1224	der	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-4	1225-1226	4	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-5	1226-1227	.	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-6	1228-1234	Klasse	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-7	1235-1244	erfordert	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-8	1245-1249	mehr	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-9	1250-1264	eigenständiges	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-10	1265-1273	Anwenden	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-11	1274-1277	von	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-12	1278-1285	Sprache	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-13	1286-1289	und	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-14	1290-1297	weniger	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-15	1298-1310	Nachsprechen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-16	1311-1314	und	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-17	1315-1330	Auswendiglernen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+16-18	1330-1331	.	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[40]	*[40]	Strukturieren[40]	*[40]	
+
+#Text=Haben Sie mit Ihrer Tochter schon über ihre Leistungen gesprochen?
+17-1	1332-1337	Haben	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[41]	*[41]	*[41]	Weiterführende Frage[41]	
+17-2	1338-1341	Sie	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[41]	*[41]	*[41]	Weiterführende Frage[41]	
+17-3	1342-1345	mit	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[41]	*[41]	*[41]	Weiterführende Frage[41]	
+17-4	1346-1351	Ihrer	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[41]	*[41]	*[41]	Weiterführende Frage[41]	
+17-5	1352-1359	Tochter	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[41]	*[41]	*[41]	Weiterführende Frage[41]	
+17-6	1360-1365	schon	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[41]	*[41]	*[41]	Weiterführende Frage[41]	
+17-7	1366-1370	über	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[41]	*[41]	*[41]	Weiterführende Frage[41]	
+17-8	1371-1375	ihre	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[41]	*[41]	*[41]	Weiterführende Frage[41]	
+17-9	1376-1386	Leistungen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[41]	*[41]	*[41]	Weiterführende Frage[41]	
+17-10	1387-1397	gesprochen	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[41]	*[41]	*[41]	Weiterführende Frage[41]	
+17-11	1397-1398	?	*[8]	*[8]	Argumentationsphase[8]	*[8]	*[8]	*[8]	*[8]	*[41]	*[41]	*[41]	Weiterführende Frage[41]	
+
+#Text=E: Ich habe bereits mit meiner Tochter gesprochen, sie würde sich ebenfalls gerne verbessern.
+18-1	1399-1400	E	_	_	_	_	_	_	_	_	_	_	_	
+18-2	1400-1401	:	_	_	_	_	_	_	_	_	_	_	_	
+18-3	1402-1405	Ich	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-4	1406-1410	habe	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-5	1411-1418	bereits	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-6	1419-1422	mit	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-7	1423-1429	meiner	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-8	1430-1437	Tochter	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-9	1438-1448	gesprochen	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-10	1448-1449	,	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-11	1450-1453	sie	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-12	1454-1459	würde	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-13	1460-1464	sich	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-14	1465-1474	ebenfalls	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-15	1475-1480	gerne	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-16	1481-1491	verbessern	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+18-17	1491-1492	.	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+
+#Text=Gerade in den Bereichen Vokabeln und Grammatik meinte Sie selbst benötige sie Übungsbedarf.
+19-1	1493-1499	Gerade	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-2	1500-1502	in	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-3	1503-1506	den	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-4	1507-1516	Bereichen	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-5	1517-1525	Vokabeln	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-6	1526-1529	und	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-7	1530-1539	Grammatik	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-8	1540-1546	meinte	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-9	1547-1550	Sie	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-10	1551-1557	selbst	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-11	1558-1566	benötige	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-12	1567-1570	sie	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-13	1571-1583	Übungsbedarf	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+19-14	1583-1584	.	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+
+#Text=Können Sie da Förderprogarmme einrichten?
+20-1	1585-1591	Können	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+20-2	1592-1595	Sie	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+20-3	1596-1598	da	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+20-4	1599-1614	Förderprogarmme	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+20-5	1615-1625	einrichten	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+20-6	1625-1626	?	*[9]	*[9]	Argumentationsphase[9]	*[9]	*[9]	*[9]	*[9]	_	_	_	_	
+
+#Text=L: Ich freue mich, dass auch von Seiten Ihrer Tochter und von ihnen aus die Bereitschaft besteht, die Leistungen zu verbessern.
+21-1	1627-1628	L	_	_	_	_	_	_	_	_	_	_	_	
+21-2	1628-1629	:	_	_	_	_	_	_	_	_	_	_	_	
+21-3	1630-1633	Ich	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-4	1634-1639	freue	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-5	1640-1644	mich	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-6	1644-1645	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-7	1646-1650	dass	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-8	1651-1655	auch	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-9	1656-1659	von	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-10	1660-1666	Seiten	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-11	1667-1672	Ihrer	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-12	1673-1680	Tochter	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-13	1681-1684	und	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-14	1685-1688	von	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-15	1689-1694	ihnen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-16	1695-1698	aus	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-17	1699-1702	die	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-18	1703-1715	Bereitschaft	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-19	1716-1723	besteht	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-20	1723-1724	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-21	1725-1728	die	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-22	1729-1739	Leistungen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-23	1740-1742	zu	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-24	1743-1753	verbessern	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+21-25	1753-1754	.	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[42]	*[42]	*[42]	Statement[42]	
+
+#Text=Gern berate ich Sie zu verschiedenen Fördermöglichkeiten und -programmen, von denen Ihre Tochter profitieren kann.
+22-1	1755-1759	Gern	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-2	1760-1766	berate	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-3	1767-1770	ich	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-4	1771-1774	Sie	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-5	1775-1777	zu	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-6	1778-1791	verschiedenen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-7	1792-1811	Fördermöglichkeiten	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-8	1812-1815	und	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-9	1816-1817	-	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-10	1817-1827	programmen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-11	1827-1828	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-12	1829-1832	von	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-13	1833-1838	denen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-14	1839-1843	Ihre	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-15	1844-1851	Tochter	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-16	1852-1863	profitieren	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-17	1864-1868	kann	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+22-18	1868-1869	.	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[43]	*[43]	Strukturieren[43]	*[43]	
+
+#Text=E: Vielen Dank dafür!
+23-1	1870-1871	E	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	_	_	_	_	
+23-2	1871-1872	:	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	_	_	_	_	
+23-3	1873-1879	Vielen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	_	_	_	_	
+23-4	1880-1884	Dank	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	_	_	_	_	
+23-5	1885-1890	dafür	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	_	_	_	_	
+23-6	1890-1891	!	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	_	_	_	_	
+
+#Text=Wie würden denn die Förderprogramme aussehen und würde die Möglichkeit bestehen, dass Sie den Unterricht anders, quasi so gestalten, dass Sie nicht so schnell vom einen Thema zum anderen ,,springen", da meine Tochter der Meinung ist der Unterricht verläuft zu schnell und sie kommt nicht hinterher.
+24-1	1892-1895	Wie	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-2	1896-1902	würden	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-3	1903-1907	denn	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-4	1908-1911	die	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-5	1912-1927	Förderprogramme	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-6	1928-1936	aussehen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-7	1937-1940	und	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-8	1941-1946	würde	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-9	1947-1950	die	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-10	1951-1962	Möglichkeit	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-11	1963-1971	bestehen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-12	1971-1972	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-13	1973-1977	dass	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-14	1978-1981	Sie	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-15	1982-1985	den	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-16	1986-1996	Unterricht	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-17	1997-2003	anders	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-18	2003-2004	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-19	2005-2010	quasi	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-20	2011-2013	so	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-21	2014-2023	gestalten	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-22	2023-2024	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-23	2025-2029	dass	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-24	2030-2033	Sie	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-25	2034-2039	nicht	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-26	2040-2042	so	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-27	2043-2050	schnell	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-28	2051-2054	vom	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-29	2055-2060	einen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-30	2061-2066	Thema	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-31	2067-2070	zum	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-32	2071-2078	anderen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-33	2079-2080	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-34	2080-2081	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-35	2081-2089	springen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-36	2089-2090	"	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-37	2090-2091	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-38	2092-2094	da	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-39	2095-2100	meine	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-40	2101-2108	Tochter	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-41	2109-2112	der	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-42	2113-2120	Meinung	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-43	2121-2124	ist	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-44	2125-2128	der	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-45	2129-2139	Unterricht	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-46	2140-2148	verläuft	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-47	2149-2151	zu	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-48	2152-2159	schnell	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-49	2160-2163	und	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-50	2164-2167	sie	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-51	2168-2173	kommt	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-52	2174-2179	nicht	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-53	2180-2189	hinterher	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+24-54	2189-2190	.	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[44]	*[44]	*[44]	Weiterführende Frage[44]	
+
+#Text=L: Wenn ich das richtig verstehe, nimmt Ihre Tochter das Unterrichtstempo als zu schnell wahr.
+25-1	2191-2192	L	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	_	_	_	_	
+25-2	2192-2193	:	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	_	_	_	_	
+25-3	2194-2198	Wenn	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-4	2199-2202	ich	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-5	2203-2206	das	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-6	2207-2214	richtig	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-7	2215-2223	verstehe	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-8	2223-2224	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-9	2225-2230	nimmt	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-10	2231-2235	Ihre	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-11	2236-2243	Tochter	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-12	2244-2247	das	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-13	2248-2264	Unterrichtstempo	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-14	2265-2268	als	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-15	2269-2271	zu	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-16	2272-2279	schnell	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-17	2280-2284	wahr	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+25-18	2284-2285	.	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[45]	Paraphrasieren[45]	*[45]	*[45]	
+
+#Text=Ich plane und gestalte meinen Unterricht so, dass die Bedürfnisse aller Kinder bestmöglich abgedeckt werden.
+26-1	2286-2289	Ich	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-2	2290-2295	plane	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-3	2296-2299	und	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-4	2300-2308	gestalte	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-5	2309-2315	meinen	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-6	2316-2326	Unterricht	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-7	2327-2329	so	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-8	2329-2330	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-9	2331-2335	dass	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-10	2336-2339	die	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-11	2340-2351	Bedürfnisse	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-12	2352-2357	aller	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-13	2358-2364	Kinder	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-14	2365-2376	bestmöglich	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-15	2377-2386	abgedeckt	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-16	2387-2393	werden	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+26-17	2393-2394	.	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[46]	*[46]	Strukturieren[46]	*[46]	
+
+#Text=Dementsprechend bin ich der Meinung, dass das Tempo des Unterrichts passend ist.
+27-1	2395-2410	Dementsprechend	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-2	2411-2414	bin	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-3	2415-2418	ich	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-4	2419-2422	der	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-5	2423-2430	Meinung	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-6	2430-2431	,	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-7	2432-2436	dass	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-8	2437-2440	das	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-9	2441-2446	Tempo	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-10	2447-2450	des	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-11	2451-2462	Unterrichts	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-12	2463-2470	passend	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-13	2471-2474	ist	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+27-14	2474-2475	.	*[10]	*[10]	*[10]	Beschlussphase[10]	*[10]	*[10]	*[10]	*[47]	Paraphrasieren[47]	*[47]	*[47]	
+
+#Text=Dass Ihre Tochter, wie sie sagen, nicht hinterher kommt, liegt unter Umständen daran, dass sie Wissenslücken aus dem Vorjahr hat.
+28-1	2476-2480	Dass	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-2	2481-2485	Ihre	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-3	2486-2493	Tochter	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-4	2493-2494	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-5	2495-2498	wie	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-6	2499-2502	sie	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-7	2503-2508	sagen	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-8	2508-2509	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-9	2510-2515	nicht	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-10	2516-2525	hinterher	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-11	2526-2531	kommt	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-12	2531-2532	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-13	2533-2538	liegt	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-14	2539-2544	unter	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-15	2545-2554	Umständen	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-16	2555-2560	daran	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-17	2560-2561	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-18	2562-2566	dass	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-19	2567-2570	sie	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-20	2571-2584	Wissenslücken	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-21	2585-2588	aus	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-22	2589-2592	dem	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-23	2593-2600	Vorjahr	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-24	2601-2604	hat	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+28-25	2604-2605	.	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[48]	Paraphrasieren[48]	*[48]	*[48]	
+
+#Text=E: Letztes Jahr ist meine Tochter im Unterricht immer gut mitgekommen und hatte gute Leistungen, deswegen bin ich mir unsicher, ob tatsächlich Wissenslücken aus dem Vorjahr bestehen.
+29-1	2606-2607	E	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-2	2607-2608	:	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-3	2609-2616	Letztes	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-4	2617-2621	Jahr	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-5	2622-2625	ist	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-6	2626-2631	meine	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-7	2632-2639	Tochter	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-8	2640-2642	im	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-9	2643-2653	Unterricht	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-10	2654-2659	immer	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-11	2660-2663	gut	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-12	2664-2675	mitgekommen	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-13	2676-2679	und	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-14	2680-2685	hatte	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-15	2686-2690	gute	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-16	2691-2701	Leistungen	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-17	2701-2702	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-18	2703-2711	deswegen	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-19	2712-2715	bin	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-20	2716-2719	ich	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-21	2720-2723	mir	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-22	2724-2732	unsicher	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-23	2732-2733	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-24	2734-2736	ob	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-25	2737-2748	tatsächlich	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-26	2749-2762	Wissenslücken	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-27	2763-2766	aus	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-28	2767-2770	dem	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-29	2771-2778	Vorjahr	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-30	2779-2787	bestehen	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+29-31	2787-2788	.	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+
+#Text=Jedoch glaube ich Ihnen, dass Sie den Unterricht für alle Schüler bestmöglich gestalten wollen.
+30-1	2789-2795	Jedoch	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-2	2796-2802	glaube	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-3	2803-2806	ich	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-4	2807-2812	Ihnen	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-5	2812-2813	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-6	2814-2818	dass	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-7	2819-2822	Sie	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-8	2823-2826	den	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-9	2827-2837	Unterricht	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-10	2838-2841	für	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-11	2842-2846	alle	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-12	2847-2854	Schüler	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-13	2855-2866	bestmöglich	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-14	2867-2876	gestalten	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-15	2877-2883	wollen	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-16	2883-2884	.	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+
+#Text=Ich selbst versuche bereits zuhause mit meiner Tochter zu üben und die Inhalte aus dem Unterricht zu wiederholen, jedoch merke ich selbst und meine Tochter, dass das nicht zielführend ist, da ich nicht das entsprechende Handwerkszeug habe, ihr den Unterrichtsstoff entsprechend zu vermitteln.
+31-1	2885-2888	Ich	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-2	2889-2895	selbst	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-3	2896-2904	versuche	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-4	2905-2912	bereits	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-5	2913-2920	zuhause	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-6	2921-2924	mit	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-7	2925-2931	meiner	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-8	2932-2939	Tochter	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-9	2940-2942	zu	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-10	2943-2947	üben	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-11	2948-2951	und	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-12	2952-2955	die	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-13	2956-2963	Inhalte	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-14	2964-2967	aus	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-15	2968-2971	dem	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-16	2972-2982	Unterricht	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-17	2983-2985	zu	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-18	2986-2997	wiederholen	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-19	2997-2998	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-20	2999-3005	jedoch	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-21	3006-3011	merke	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-22	3012-3015	ich	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-23	3016-3022	selbst	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-24	3023-3026	und	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-25	3027-3032	meine	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-26	3033-3040	Tochter	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-27	3040-3041	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-28	3042-3046	dass	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-29	3047-3050	das	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-30	3051-3056	nicht	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-31	3057-3068	zielführend	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-32	3069-3072	ist	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-33	3072-3073	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-34	3074-3076	da	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-35	3077-3080	ich	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-36	3081-3086	nicht	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-37	3087-3090	das	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-38	3091-3104	entsprechende	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-39	3105-3118	Handwerkszeug	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-40	3119-3123	habe	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-41	3123-3124	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-42	3125-3128	ihr	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-43	3129-3132	den	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-44	3133-3149	Unterrichtsstoff	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-45	3150-3162	entsprechend	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-46	3163-3165	zu	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-47	3166-3176	vermitteln	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+31-48	3176-3177	.	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	*[49]	Paraphrasieren[49]	*[49]	*[49]	
+
+#Text=Haben Sie Kontakte an die ich mich wenden könnte, die meine Tochter fördern und im Englischunterricht voranbringen könnten?
+32-1	3178-3183	Haben	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-2	3184-3187	Sie	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-3	3188-3196	Kontakte	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-4	3197-3199	an	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-5	3200-3203	die	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-6	3204-3207	ich	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-7	3208-3212	mich	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-8	3213-3219	wenden	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-9	3220-3226	könnte	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-10	3226-3227	,	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-11	3228-3231	die	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-12	3232-3237	meine	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-13	3238-3245	Tochter	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-14	3246-3253	fördern	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-15	3254-3257	und	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-16	3258-3260	im	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-17	3261-3279	Englischunterricht	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-18	3280-3292	voranbringen	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-19	3293-3300	könnten	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+32-20	3300-3301	?	*[11]	*[11]	*[11]	Beschlussphase[11]	*[11]	*[11]	*[11]	_	_	_	_	
+
+#Text=L: Die guten und sehr guten Leistungen Ihrer Tochter im letzten Schuljahr sind bemerkenswert.
+33-1	3302-3303	L	_	_	_	_	_	_	_	_	_	_	_	
+33-2	3303-3304	:	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	_	_	_	_	
+33-3	3305-3308	Die	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-4	3309-3314	guten	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-5	3315-3318	und	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-6	3319-3323	sehr	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-7	3324-3329	guten	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-8	3330-3340	Leistungen	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-9	3341-3346	Ihrer	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-10	3347-3354	Tochter	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-11	3355-3357	im	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-12	3358-3365	letzten	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-13	3366-3375	Schuljahr	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-14	3376-3380	sind	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-15	3381-3394	bemerkenswert	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+33-16	3394-3395	.	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[50]	*[50]	*[50]	Statement[50]	
+
+#Text=Jedoch kann es auch trotz guter Schulnoten möglich sein, dass Ihre Tochter Wissenslücken hat.
+34-1	3396-3402	Jedoch	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-2	3403-3407	kann	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-3	3408-3410	es	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-4	3411-3415	auch	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-5	3416-3421	trotz	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-6	3422-3427	guter	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-7	3428-3438	Schulnoten	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-8	3439-3446	möglich	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-9	3447-3451	sein	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-10	3451-3452	,	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-11	3453-3457	dass	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-12	3458-3462	Ihre	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-13	3463-3470	Tochter	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-14	3471-3484	Wissenslücken	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-15	3485-3488	hat	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+34-16	3488-3489	.	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[51]	Paraphrasieren[51]	*[51]	*[51]	
+
+#Text=Die Tatsache, dass ihre Tochter sowohl bei schriftlichen, als auch bei mündlichen Arbeiten und bei den Hausaufgaben überall eine Verschlechterung aufweist, bestärkt diesen Verdacht meiner Meinung nach.
+35-1	3490-3493	Die	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-2	3494-3502	Tatsache	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-3	3502-3503	,	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-4	3504-3508	dass	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-5	3509-3513	ihre	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-6	3514-3521	Tochter	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-7	3522-3528	sowohl	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-8	3529-3532	bei	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-9	3533-3546	schriftlichen	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-10	3546-3547	,	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-11	3548-3551	als	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-12	3552-3556	auch	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-13	3557-3560	bei	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-14	3561-3571	mündlichen	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-15	3572-3580	Arbeiten	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-16	3581-3584	und	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-17	3585-3588	bei	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-18	3589-3592	den	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-19	3593-3605	Hausaufgaben	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-20	3606-3613	überall	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-21	3614-3618	eine	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-22	3619-3635	Verschlechterung	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-23	3636-3644	aufweist	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-24	3644-3645	,	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-25	3646-3654	bestärkt	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-26	3655-3661	diesen	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-27	3662-3670	Verdacht	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-28	3671-3677	meiner	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-29	3678-3685	Meinung	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-30	3686-3690	nach	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+35-31	3690-3691	.	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[52]	*[52]	*[52]	Statement[52]	
+
+#Text=Da Samara aber eine Schülerin mit einer guten Auffassungsgabe ist, bin ich mir sicher, dass sie den Anschluss schnell wieder aufholen kann.
+36-1	3692-3694	Da	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-2	3695-3701	Samara	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-3	3702-3706	aber	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-4	3707-3711	eine	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-5	3712-3721	Schülerin	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-6	3722-3725	mit	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-7	3726-3731	einer	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-8	3732-3737	guten	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-9	3738-3753	Auffassungsgabe	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-10	3754-3757	ist	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-11	3757-3758	,	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-12	3759-3762	bin	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-13	3763-3766	ich	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-14	3767-3770	mir	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-15	3771-3777	sicher	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-16	3777-3778	,	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-17	3779-3783	dass	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-18	3784-3787	sie	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-19	3788-3791	den	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-20	3792-3801	Anschluss	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-21	3802-3809	schnell	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-22	3810-3816	wieder	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-23	3817-3825	aufholen	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-24	3826-3830	kann	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+36-25	3830-3831	.	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[53]	*[53]	*[53]	Statement[53]	
+
+#Text=012345678 das ist die Telefonnummer von Frau Lila.
+37-1	3832-3841	012345678	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[54]	*[54]	Strukturieren[54]	*[54]	
+37-2	3842-3845	das	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[54]	*[54]	Strukturieren[54]	*[54]	
+37-3	3846-3849	ist	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[54]	*[54]	Strukturieren[54]	*[54]	
+37-4	3850-3853	die	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[54]	*[54]	Strukturieren[54]	*[54]	
+37-5	3854-3867	Telefonnummer	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[54]	*[54]	Strukturieren[54]	*[54]	
+37-6	3868-3871	von	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[54]	*[54]	Strukturieren[54]	*[54]	
+37-7	3872-3876	Frau	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[54]	*[54]	Strukturieren[54]	*[54]	
+37-8	3877-3881	Lila	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[54]	*[54]	Strukturieren[54]	*[54]	
+37-9	3881-3882	.	*[12]	*[12]	*[12]	Beschlussphase[12]	*[12]	*[12]	*[12]	*[54]	*[54]	Strukturieren[54]	*[54]	
+
+#Text=Sie gibt Nachhilfe in Englisch und ich kann sie sehr weiterempfehlen.
+38-1	3883-3886	Sie	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+38-2	3887-3891	gibt	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+38-3	3892-3901	Nachhilfe	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+38-4	3902-3904	in	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+38-5	3905-3913	Englisch	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+38-6	3914-3917	und	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+38-7	3918-3921	ich	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+38-8	3922-3926	kann	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+38-9	3927-3930	sie	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+38-10	3931-3935	sehr	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+38-11	3936-3951	weiterempfehlen	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+38-12	3951-3952	.	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[55]	*[55]	*[55]	Statement[55]	
+
+#Text=Melden sie sich sonst gern unter lila.maria@nachhilfe.lol
+39-1	3953-3959	Melden	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[56]	*[56]	Strukturieren[56]	*[56]	
+39-2	3960-3963	sie	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[56]	*[56]	Strukturieren[56]	*[56]	
+39-3	3964-3968	sich	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[56]	*[56]	Strukturieren[56]	*[56]	
+39-4	3969-3974	sonst	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[56]	*[56]	Strukturieren[56]	*[56]	
+39-5	3975-3979	gern	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[56]	*[56]	Strukturieren[56]	*[56]	
+39-6	3980-3985	unter	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[56]	*[56]	Strukturieren[56]	*[56]	
+39-7	3986-3996	lila.maria	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[56]	*[56]	Strukturieren[56]	*[56]	
+39-8	3996-3997	@	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[56]	*[56]	Strukturieren[56]	*[56]	
+39-9	3997-4010	nachhilfe.lol	*[13]	*[13]	*[13]	Beschlussphase[13]	*[13]	*[13]	*[13]	*[56]	*[56]	Strukturieren[56]	*[56]	
+
+#Text=E: Ich danke Ihnen sehr für den Kontakt, an den wir uns nun einmal wenden werden und bin sehr froh, dass Sie den Eindruck haben, dass Samara zügig wieder Anschluss findet.
+40-1	4011-4012	E	_	_	_	_	_	_	_	_	_	_	_	
+40-2	4012-4013	:	_	_	_	_	_	_	_	_	_	_	_	
+40-3	4014-4017	Ich	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-4	4018-4023	danke	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-5	4024-4029	Ihnen	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-6	4030-4034	sehr	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-7	4035-4038	für	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-8	4039-4042	den	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-9	4043-4050	Kontakt	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-10	4050-4051	,	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-11	4052-4054	an	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-12	4055-4058	den	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-13	4059-4062	wir	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-14	4063-4066	uns	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-15	4067-4070	nun	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-16	4071-4077	einmal	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-17	4078-4084	wenden	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-18	4085-4091	werden	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-19	4092-4095	und	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-20	4096-4099	bin	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-21	4100-4104	sehr	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-22	4105-4109	froh	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-23	4109-4110	,	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-24	4111-4115	dass	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-25	4116-4119	Sie	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-26	4120-4123	den	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-27	4124-4132	Eindruck	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-28	4133-4138	haben	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-29	4138-4139	,	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-30	4140-4144	dass	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-31	4145-4151	Samara	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-32	4152-4157	zügig	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-33	4158-4164	wieder	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-34	4165-4174	Anschluss	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-35	4175-4181	findet	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+40-36	4181-4182	.	Wertschätzende Reflexion[14]	*[14]	*[14]	*[14]	*[14]	*[14]	*[14]	_	_	_	_	
+
+#Text=Das hoffe ich nämlich auch, da Samara immer so gerne in den Unterricht gegangen ist und nun immer heulend nach Hause kommt und mit lauter Sorgen auf mich zukommt.
+41-1	4183-4186	Das	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-2	4187-4192	hoffe	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-3	4193-4196	ich	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-4	4197-4204	nämlich	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-5	4205-4209	auch	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-6	4209-4210	,	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-7	4211-4213	da	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-8	4214-4220	Samara	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-9	4221-4226	immer	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-10	4227-4229	so	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-11	4230-4235	gerne	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-12	4236-4238	in	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-13	4239-4242	den	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-14	4243-4253	Unterricht	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-15	4254-4262	gegangen	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-16	4263-4266	ist	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-17	4267-4270	und	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-18	4271-4274	nun	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-19	4275-4280	immer	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-20	4281-4288	heulend	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-21	4289-4293	nach	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-22	4294-4299	Hause	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-23	4300-4305	kommt	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-24	4306-4309	und	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-25	4310-4313	mit	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-26	4314-4320	lauter	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-27	4321-4327	Sorgen	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-28	4328-4331	auf	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-29	4332-4336	mich	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-30	4337-4344	zukommt	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+41-31	4344-4345	.	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+
+#Text=Könnten Sie bitte auch noch einmal mit ihr reden und ihr die Unsicherheit nehmen?
+42-1	4346-4353	Könnten	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-2	4354-4357	Sie	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-3	4358-4363	bitte	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-4	4364-4368	auch	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-5	4369-4373	noch	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-6	4374-4380	einmal	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-7	4381-4384	mit	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-8	4385-4388	ihr	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-9	4389-4394	reden	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-10	4395-4398	und	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-11	4399-4402	ihr	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-12	4403-4406	die	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-13	4407-4419	Unsicherheit	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-14	4420-4426	nehmen	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+42-15	4426-4427	?	Terminvereinbarung[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+
+#Text=Bei mir hat sie vermutlich nur das Gefühl ich bin die Mutter, die sie jetzt aufheitern möchte.
+43-1	4428-4431	Bei	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-2	4432-4435	mir	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-3	4436-4439	hat	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-4	4440-4443	sie	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-5	4444-4454	vermutlich	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-6	4455-4458	nur	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-7	4459-4462	das	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-8	4463-4469	Gefühl	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-9	4470-4473	ich	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-10	4474-4477	bin	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-11	4478-4481	die	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-12	4482-4488	Mutter	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-13	4488-4489	,	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-14	4490-4493	die	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-15	4494-4497	sie	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-16	4498-4503	jetzt	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-17	4504-4514	aufheitern	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-18	4515-4521	möchte	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+43-19	4521-4522	.	Terminvereinbarung[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+
+#Text=Ich denke das würde sie auch wieder einen Schritt weiterbringen und ihr Selbstvertrauen geben.
+44-1	4523-4526	Ich	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-2	4527-4532	denke	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-3	4533-4536	das	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-4	4537-4542	würde	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-5	4543-4546	sie	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-6	4547-4551	auch	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-7	4552-4558	wieder	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-8	4559-4564	einen	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-9	4565-4572	Schritt	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-10	4573-4586	weiterbringen	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-11	4587-4590	und	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-12	4591-4594	ihr	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-13	4595-4610	Selbstvertrauen	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-14	4611-4616	geben	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+44-15	4616-4617	.	Wertschätzende Reflexion[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+
+#Text=L: Dass sie das Nachhilfeangebot wahrnehmen, freut mich.
+45-1	4618-4619	L	_	_	_	_	_	_	_	_	_	_	_	
+45-2	4619-4620	:	_	_	_	_	_	_	_	_	_	_	_	
+45-3	4621-4625	Dass	Wertschätzende Reflexion[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[57]	*[57]	*[57]	Statement[57]	
+45-4	4626-4629	sie	Wertschätzende Reflexion[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[57]	*[57]	*[57]	Statement[57]	
+45-5	4630-4633	das	Wertschätzende Reflexion[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[57]	*[57]	*[57]	Statement[57]	
+45-6	4634-4650	Nachhilfeangebot	Wertschätzende Reflexion[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[57]	*[57]	*[57]	Statement[57]	
+45-7	4651-4661	wahrnehmen	Wertschätzende Reflexion[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[57]	*[57]	*[57]	Statement[57]	
+45-8	4661-4662	,	Wertschätzende Reflexion[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[57]	*[57]	*[57]	Statement[57]	
+45-9	4663-4668	freut	Wertschätzende Reflexion[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[57]	*[57]	*[57]	Statement[57]	
+45-10	4669-4673	mich	Wertschätzende Reflexion[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[57]	*[57]	*[57]	Statement[57]	
+45-11	4673-4674	.	Wertschätzende Reflexion[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[19]	*[57]	*[57]	*[57]	Statement[57]	
+
+#Text=Es ist meiner Meinung nach ein wichtiger und richtiger Schritt.
+46-1	4675-4677	Es	Wertschätzende Reflexion[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[58]	*[58]	*[58]	Statement[58]	
+46-2	4678-4681	ist	Wertschätzende Reflexion[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[58]	*[58]	*[58]	Statement[58]	
+46-3	4682-4688	meiner	Wertschätzende Reflexion[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[58]	*[58]	*[58]	Statement[58]	
+46-4	4689-4696	Meinung	Wertschätzende Reflexion[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[58]	*[58]	*[58]	Statement[58]	
+46-5	4697-4701	nach	Wertschätzende Reflexion[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[58]	*[58]	*[58]	Statement[58]	
+46-6	4702-4705	ein	Wertschätzende Reflexion[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[58]	*[58]	*[58]	Statement[58]	
+46-7	4706-4715	wichtiger	Wertschätzende Reflexion[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[58]	*[58]	*[58]	Statement[58]	
+46-8	4716-4719	und	Wertschätzende Reflexion[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[58]	*[58]	*[58]	Statement[58]	
+46-9	4720-4729	richtiger	Wertschätzende Reflexion[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[58]	*[58]	*[58]	Statement[58]	
+46-10	4730-4737	Schritt	Wertschätzende Reflexion[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[58]	*[58]	*[58]	Statement[58]	
+46-11	4737-4738	.	Wertschätzende Reflexion[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[20]	*[58]	*[58]	*[58]	Statement[58]	
+
+#Text=Auf Ihre Bitte hin werde ich gern auch nochmal mit Samara sprechen.
+47-1	4739-4742	Auf	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-2	4743-4747	Ihre	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-3	4748-4753	Bitte	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-4	4754-4757	hin	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-5	4758-4763	werde	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-6	4764-4767	ich	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-7	4768-4772	gern	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-8	4773-4777	auch	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-9	4778-4785	nochmal	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-10	4786-4789	mit	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-11	4790-4796	Samara	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-12	4797-4805	sprechen	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+47-13	4805-4806	.	Terminvereinbarung[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[21]	*[59]	Paraphrasieren[59]	*[59]	*[59]	
+
+#Text=So schafft sie es mit Sicherheit, ihre Motivation und Selbstvertrauen wiederzufinden.
+48-1	4807-4809	So	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-2	4810-4817	schafft	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-3	4818-4821	sie	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-4	4822-4824	es	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-5	4825-4828	mit	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-6	4829-4839	Sicherheit	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-7	4839-4840	,	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-8	4841-4845	ihre	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-9	4846-4856	Motivation	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-10	4857-4860	und	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-11	4861-4876	Selbstvertrauen	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-12	4877-4891	wiederzufinden	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+48-13	4891-4892	.	Wertschätzende Reflexion[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[22]	*[60]	Paraphrasieren[60]	*[60]	*[60]	
+
+#Text=Das Potential hat sie und das kann ich ihr gern in einem persönlichen Gespräch erklären.
+49-1	4893-4896	Das	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-2	4897-4906	Potential	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-3	4907-4910	hat	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-4	4911-4914	sie	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-5	4915-4918	und	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-6	4919-4922	das	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-7	4923-4927	kann	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-8	4928-4931	ich	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-9	4932-4935	ihr	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-10	4936-4940	gern	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-11	4941-4943	in	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-12	4944-4949	einem	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-13	4950-4962	persönlichen	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-14	4963-4971	Gespräch	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-15	4972-4980	erklären	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+49-16	4980-4981	.	Wertschätzende Reflexion[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[23]	*[61]	*[61]	*[61]	Statement[61]	
+
+#Text=Haben Sie sonst noch ein Anliegen oder andere Punkte, die sie noch besprechen wollen?
+50-1	4982-4987	Haben	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-2	4988-4991	Sie	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-3	4992-4997	sonst	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-4	4998-5002	noch	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-5	5003-5006	ein	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-6	5007-5015	Anliegen	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-7	5016-5020	oder	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-8	5021-5027	andere	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-9	5028-5034	Punkte	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-10	5034-5035	,	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-11	5036-5039	die	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-12	5040-5043	sie	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-13	5044-5048	noch	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-14	5049-5059	besprechen	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-15	5060-5066	wollen	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+50-16	5066-5067	?	Sonstiges[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[24]	*[62]	*[62]	Strukturieren[62]	*[62]	
+
+#Text=E: Da bin ich Ihnen mehr als dankbar.
+51-1	5068-5069	E	_	_	_	_	_	_	_	_	_	_	_	
+51-2	5069-5070	:	_	_	_	_	_	_	_	_	_	_	_	
+51-3	5071-5073	Da	Wertschätzende Reflexion[25]	*[25]	*[25]	*[25]	*[25]	*[25]	*[25]	_	_	_	_	
+51-4	5074-5077	bin	Wertschätzende Reflexion[25]	*[25]	*[25]	*[25]	*[25]	*[25]	*[25]	_	_	_	_	
+51-5	5078-5081	ich	Wertschätzende Reflexion[25]	*[25]	*[25]	*[25]	*[25]	*[25]	*[25]	_	_	_	_	
+51-6	5082-5087	Ihnen	Wertschätzende Reflexion[25]	*[25]	*[25]	*[25]	*[25]	*[25]	*[25]	_	_	_	_	
+51-7	5088-5092	mehr	Wertschätzende Reflexion[25]	*[25]	*[25]	*[25]	*[25]	*[25]	*[25]	_	_	_	_	
+51-8	5093-5096	als	Wertschätzende Reflexion[25]	*[25]	*[25]	*[25]	*[25]	*[25]	*[25]	_	_	_	_	
+51-9	5097-5104	dankbar	Wertschätzende Reflexion[25]	*[25]	*[25]	*[25]	*[25]	*[25]	*[25]	_	_	_	_	
+51-10	5104-5105	.	Wertschätzende Reflexion[25]	*[25]	*[25]	*[25]	*[25]	*[25]	*[25]	_	_	_	_	
+
+#Text=Ich denke damit schaffen wir es sicherlich die Samara wieder für das Fach Englisch zu begeistern und ihr wieder zu besseren Noten zu verhelfen.
+52-1	5106-5109	Ich	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-2	5110-5115	denke	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-3	5116-5121	damit	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-4	5122-5130	schaffen	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-5	5131-5134	wir	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-6	5135-5137	es	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-7	5138-5148	sicherlich	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-8	5149-5152	die	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-9	5153-5159	Samara	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-10	5160-5166	wieder	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-11	5167-5170	für	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-12	5171-5174	das	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-13	5175-5179	Fach	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-14	5180-5188	Englisch	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-15	5189-5191	zu	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-16	5192-5202	begeistern	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-17	5203-5206	und	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-18	5207-5210	ihr	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-19	5211-5217	wieder	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-20	5218-5220	zu	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-21	5221-5229	besseren	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-22	5230-5235	Noten	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-23	5236-5238	zu	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-24	5239-5248	verhelfen	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+52-25	5248-5249	.	Wertschätzende Reflexion[26]	*[26]	*[26]	*[26]	*[26]	*[26]	*[26]	_	_	_	_	
+
+#Text=Im Moment brennt mir nichts mehr auf der Seele.
+53-1	5250-5252	Im	Sonstiges[27]	*[27]	*[27]	*[27]	*[27]	*[27]	*[27]	_	_	_	_	
+53-2	5253-5259	Moment	Sonstiges[27]	*[27]	*[27]	*[27]	*[27]	*[27]	*[27]	_	_	_	_	
+53-3	5260-5266	brennt	Sonstiges[27]	*[27]	*[27]	*[27]	*[27]	*[27]	*[27]	_	_	_	_	
+53-4	5267-5270	mir	Sonstiges[27]	*[27]	*[27]	*[27]	*[27]	*[27]	*[27]	_	_	_	_	
+53-5	5271-5277	nichts	Sonstiges[27]	*[27]	*[27]	*[27]	*[27]	*[27]	*[27]	_	_	_	_	
+53-6	5278-5282	mehr	Sonstiges[27]	*[27]	*[27]	*[27]	*[27]	*[27]	*[27]	_	_	_	_	
+53-7	5283-5286	auf	Sonstiges[27]	*[27]	*[27]	*[27]	*[27]	*[27]	*[27]	_	_	_	_	
+53-8	5287-5290	der	Sonstiges[27]	*[27]	*[27]	*[27]	*[27]	*[27]	*[27]	_	_	_	_	
+53-9	5291-5296	Seele	Sonstiges[27]	*[27]	*[27]	*[27]	*[27]	*[27]	*[27]	_	_	_	_	
+53-10	5296-5297	.	Sonstiges[27]	*[27]	*[27]	*[27]	*[27]	*[27]	*[27]	_	_	_	_	
+
+#Text=L: Dann freue ich mich, dass wir gemeinsam eine Lösung gefunden haben.
+54-1	5298-5299	L	_	_	_	_	_	_	_	_	_	_	_	
+54-2	5299-5300	:	_	_	_	_	_	_	_	_	_	_	_	
+54-3	5301-5305	Dann	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-4	5306-5311	freue	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-5	5312-5315	ich	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-6	5316-5320	mich	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-7	5320-5321	,	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-8	5322-5326	dass	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-9	5327-5330	wir	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-10	5331-5340	gemeinsam	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-11	5341-5345	eine	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-12	5346-5352	Lösung	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-13	5353-5361	gefunden	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-14	5362-5367	haben	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+54-15	5367-5368	.	Wertschätzende Reflexion[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[28]	*[63]	*[63]	*[63]	Statement[63]	
+
+#Text=Ich schlage vor, Sie und Ihre Tochter finden sich erstmal mit der Nachhilfesituation zurecht und dann bin ich zuversichtlich, dass sich diese dann auch in den Noten und den Leistungen ihrer Tochter widerspiegelt.
+55-1	5369-5372	Ich	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-2	5373-5380	schlage	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-3	5381-5384	vor	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-4	5384-5385	,	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-5	5386-5389	Sie	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-6	5390-5393	und	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-7	5394-5398	Ihre	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-8	5399-5406	Tochter	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-9	5407-5413	finden	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-10	5414-5418	sich	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-11	5419-5426	erstmal	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-12	5427-5430	mit	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-13	5431-5434	der	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-14	5435-5453	Nachhilfesituation	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-15	5454-5461	zurecht	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-16	5462-5465	und	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-17	5466-5470	dann	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-18	5471-5474	bin	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-19	5475-5478	ich	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-20	5479-5493	zuversichtlich	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-21	5493-5494	,	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-22	5495-5499	dass	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-23	5500-5504	sich	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-24	5505-5510	diese	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-25	5511-5515	dann	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-26	5516-5520	auch	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-27	5521-5523	in	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-28	5524-5527	den	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-29	5528-5533	Noten	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-30	5534-5537	und	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-31	5538-5541	den	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-32	5542-5552	Leistungen	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-33	5553-5558	ihrer	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-34	5559-5566	Tochter	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-35	5567-5580	widerspiegelt	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+55-36	5580-5581	.	Terminvereinbarung[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[29]	*[64]	*[64]	Strukturieren[64]	*[64]	
+
+#Text=Vielen Dank, für das Gespräch und ich wünsche noch eine schöne Woche.
+56-1	5582-5588	Vielen	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-2	5589-5593	Dank	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-3	5593-5594	,	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-4	5595-5598	für	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-5	5599-5602	das	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-6	5603-5611	Gespräch	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-7	5612-5615	und	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-8	5616-5619	ich	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-9	5620-5627	wünsche	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-10	5628-5632	noch	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-11	5633-5637	eine	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-12	5638-5644	schöne	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-13	5645-5650	Woche	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+56-14	5650-5651	.	Verabschiedung[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[30]	*[65]	*[65]	*[65]	Statement[65]	
+
+#Text=E: Ich bin ebenfalls sehr froh und guter Dinge.
+57-1	5652-5653	E	_	_	_	_	_	_	_	_	_	_	_	
+57-2	5653-5654	:	_	_	_	_	_	_	_	_	_	_	_	
+57-3	5655-5658	Ich	Wertschätzende Reflexion[31]	*[31]	*[31]	*[31]	*[31]	*[31]	*[31]	_	_	_	_	
+57-4	5659-5662	bin	Wertschätzende Reflexion[31]	*[31]	*[31]	*[31]	*[31]	*[31]	*[31]	_	_	_	_	
+57-5	5663-5672	ebenfalls	Wertschätzende Reflexion[31]	*[31]	*[31]	*[31]	*[31]	*[31]	*[31]	_	_	_	_	
+57-6	5673-5677	sehr	Wertschätzende Reflexion[31]	*[31]	*[31]	*[31]	*[31]	*[31]	*[31]	_	_	_	_	
+57-7	5678-5682	froh	Wertschätzende Reflexion[31]	*[31]	*[31]	*[31]	*[31]	*[31]	*[31]	_	_	_	_	
+57-8	5683-5686	und	Wertschätzende Reflexion[31]	*[31]	*[31]	*[31]	*[31]	*[31]	*[31]	_	_	_	_	
+57-9	5687-5692	guter	Wertschätzende Reflexion[31]	*[31]	*[31]	*[31]	*[31]	*[31]	*[31]	_	_	_	_	
+57-10	5693-5698	Dinge	Wertschätzende Reflexion[31]	*[31]	*[31]	*[31]	*[31]	*[31]	*[31]	_	_	_	_	
+57-11	5698-5699	.	Wertschätzende Reflexion[31]	*[31]	*[31]	*[31]	*[31]	*[31]	*[31]	_	_	_	_	
+
+#Text=Ich danke Ihnen für das Gespräch und Ihren engagierten Einsatz und wünsche Ihnen ebenfalls eine schöne Woche!
+58-1	5700-5703	Ich	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-2	5704-5709	danke	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-3	5710-5715	Ihnen	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-4	5716-5719	für	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-5	5720-5723	das	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-6	5724-5732	Gespräch	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-7	5733-5736	und	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-8	5737-5742	Ihren	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-9	5743-5754	engagierten	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-10	5755-5762	Einsatz	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-11	5763-5766	und	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-12	5767-5774	wünsche	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-13	5775-5780	Ihnen	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-14	5781-5790	ebenfalls	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-15	5791-5795	eine	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-16	5796-5802	schöne	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-17	5803-5808	Woche	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	
+58-18	5808-5809	!	Verabschiedung[32]	*[32]	*[32]	*[32]	*[32]	*[32]	*[32]	_	_	_	_	

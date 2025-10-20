@@ -1,0 +1,948 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Gesprchsphasen|Abschlussphase|Anfangsphase|Argumentationsphase|Beschlussphase|Informationsphase|Kommentar|Sonstiges
+#T_SP=webanno.custom.Gesprchstechniken|Kommentar|Paraphrasieren|Strukturieren|Verbalisieren
+
+
+#Text=E: Viel Spaß.
+1-1	0-1	E	_	_	_	_	_	_	_	_	_	_	_	
+1-2	1-2	:	_	_	_	_	_	_	_	_	_	_	_	
+1-3	3-7	Viel	_	_	_	_	_	_	_	_	_	_	_	
+1-4	8-12	Spaß	_	_	_	_	_	_	_	_	_	_	_	
+1-5	12-13	.	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=E: Danke.
+2-1	14-15	E	_	_	_	_	_	_	_	_	_	_	_	
+2-2	15-16	:	_	_	_	_	_	_	_	_	_	_	_	
+2-3	17-22	Danke	_	_	_	_	_	_	_	_	_	_	_	
+2-4	22-23	.	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=L: Guten Tag, Frau Grün.
+3-1	24-25	L	_	_	_	_	_	_	_	_	_	_	_	
+3-2	25-26	:	_	_	_	_	_	_	_	_	_	_	_	
+3-3	27-32	Guten	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	*[19]	*[19]	*[19]	Statement[19]	
+3-4	33-36	Tag	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	*[19]	*[19]	*[19]	Statement[19]	
+3-5	36-37	,	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	*[19]	*[19]	*[19]	Statement[19]	
+3-6	38-42	Frau	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	*[19]	*[19]	*[19]	Statement[19]	
+3-7	43-47	Grün	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	*[19]	*[19]	*[19]	Statement[19]	
+3-8	47-48	.	*[1]	Begrüßung[1]	*[1]	*[1]	*[1]	*[1]	*[1]	*[19]	*[19]	*[19]	Statement[19]	
+
+#Text=L: Schön, dass wir den Zeitpunkt hier gefunden haben, uns beide zu unterhalten.
+4-1	49-50	L	_	_	_	_	_	_	_	_	_	_	_	
+4-2	50-51	:	_	_	_	_	_	_	_	_	_	_	_	
+4-3	52-57	Schön	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-4	57-58	,	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-5	59-63	dass	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-6	64-67	wir	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-7	68-71	den	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-8	72-81	Zeitpunkt	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-9	82-86	hier	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-10	87-95	gefunden	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-11	96-101	haben	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-12	101-102	,	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-13	103-106	uns	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-14	107-112	beide	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-15	113-115	zu	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-16	116-127	unterhalten	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+4-17	127-128	.	*[2]	Smalltalk[2]	*[2]	*[2]	*[2]	*[2]	*[2]	*[20]	*[20]	*[20]	Statement[20]	
+
+#Text=L: Sie hatten ja nach einem Gespräch gebeten.
+5-1	129-130	L	_	_	_	_	_	_	_	_	_	_	_	
+5-2	130-131	:	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	_	_	_	_	
+5-3	132-135	Sie	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	*[21]	*[21]	*[21]	Statement[21]	
+5-4	136-142	hatten	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	*[21]	*[21]	*[21]	Statement[21]	
+5-5	143-145	ja	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	*[21]	*[21]	*[21]	Statement[21]	
+5-6	146-150	nach	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	*[21]	*[21]	*[21]	Statement[21]	
+5-7	151-156	einem	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	*[21]	*[21]	*[21]	Statement[21]	
+5-8	157-165	Gespräch	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	*[21]	*[21]	*[21]	Statement[21]	
+5-9	166-173	gebeten	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	*[21]	*[21]	*[21]	Statement[21]	
+5-10	173-174	.	*[3]	Inhaltlicher Rahmen[3]	*[3]	*[3]	*[3]	*[3]	*[3]	*[21]	*[21]	*[21]	Statement[21]	
+
+#Text=E: Genau, also danke Frau Kreis, dass wir das Gespräch hier führen.
+6-1	175-176	E	_	_	_	_	_	_	_	_	_	_	_	
+6-2	176-177	:	_	_	_	_	_	_	_	_	_	_	_	
+6-3	178-183	Genau	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-4	183-184	,	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-5	185-189	also	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-6	190-195	danke	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-7	196-200	Frau	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-8	201-206	Kreis	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-9	206-207	,	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-10	208-212	dass	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-11	213-216	wir	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-12	217-220	das	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-13	221-229	Gespräch	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-14	230-234	hier	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-15	235-241	führen	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+6-16	241-242	.	*[4]	Inhaltlicher Rahmen[4]	*[4]	*[4]	*[4]	*[4]	*[4]	_	_	_	_	
+
+#Text=E: Das ist mir auch sehr wichtig.
+7-1	243-244	E	_	_	_	_	_	_	_	_	_	_	_	
+7-2	244-245	:	_	_	_	_	_	_	_	_	_	_	_	
+7-3	246-249	Das	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+7-4	250-253	ist	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+7-5	254-257	mir	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+7-6	258-262	auch	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+7-7	263-267	sehr	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+7-8	268-275	wichtig	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+7-9	275-276	.	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+
+#Text=E: Es geht ja um meinen Sohn.
+8-1	277-278	E	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+8-2	278-279	:	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+8-3	280-282	Es	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+8-4	283-287	geht	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+8-5	288-290	ja	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+8-6	291-293	um	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+8-7	294-300	meinen	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+8-8	301-305	Sohn	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+8-9	305-306	.	*[5]	Inhaltlicher Rahmen[5]	*[5]	*[5]	*[5]	*[5]	*[5]	_	_	_	_	
+
+#Text=E: Also ich habe ja sonst immer mitbekommen, dass er nur eins damit nach Hause gebracht hat.
+9-1	307-308	E	_	_	_	_	_	_	_	_	_	_	_	
+9-2	308-309	:	_	_	_	_	_	_	_	_	_	_	_	
+9-3	310-314	Also	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-4	315-318	ich	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-5	319-323	habe	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-6	324-326	ja	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-7	327-332	sonst	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-8	333-338	immer	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-9	339-350	mitbekommen	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-10	350-351	,	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-11	352-356	dass	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-12	357-359	er	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-13	360-363	nur	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-14	364-368	eins	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-15	369-374	damit	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-16	375-379	nach	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-17	380-385	Hause	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-18	386-394	gebracht	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-19	395-398	hat	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+9-20	398-399	.	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+
+#Text=E: Jetzt auf einmal der Dreier.
+10-1	400-401	E	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+10-2	401-402	:	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+10-3	403-408	Jetzt	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+10-4	409-412	auf	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+10-5	413-419	einmal	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+10-6	420-423	der	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+10-7	424-430	Dreier	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+10-8	430-431	.	*[6]	Inhaltlicher Rahmen[6]	*[6]	*[6]	*[6]	*[6]	*[6]	_	_	_	_	
+
+#Text=E: Ich weiß auch nicht, woher der kommt.
+11-1	432-433	E	_	_	_	_	_	_	_	_	_	_	_	
+11-2	433-434	:	_	_	_	_	_	_	_	_	_	_	_	
+11-3	435-438	Ich	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	_	_	_	_	
+11-4	439-443	weiß	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	_	_	_	_	
+11-5	444-448	auch	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	_	_	_	_	
+11-6	449-454	nicht	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	_	_	_	_	
+11-7	454-455	,	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	_	_	_	_	
+11-8	456-461	woher	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	_	_	_	_	
+11-9	462-465	der	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	_	_	_	_	
+11-10	466-471	kommt	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	_	_	_	_	
+11-11	471-472	.	*[7]	Inhaltlicher Rahmen[7]	*[7]	*[7]	*[7]	*[7]	*[7]	_	_	_	_	
+
+#Text=L: Okay, Sie sprechen über den Dreier, den er letztens bei mir im Sportunterricht bekommen hat.
+12-1	473-474	L	_	_	_	_	_	_	_	_	_	_	_	
+12-2	474-475	:	_	_	_	_	_	_	_	_	_	_	_	
+12-3	476-480	Okay	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-4	480-481	,	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-5	482-485	Sie	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-6	486-494	sprechen	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-7	495-499	über	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-8	500-503	den	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-9	504-510	Dreier	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-10	510-511	,	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-11	512-515	den	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-12	516-518	er	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-13	519-527	letztens	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-14	528-531	bei	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-15	532-535	mir	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-16	536-538	im	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-17	539-554	Sportunterricht	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-18	555-563	bekommen	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-19	564-567	hat	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+12-20	567-568	.	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[22]	*[22]	Strukturieren[22]	*[22]	
+
+#Text=E: Genau, richtig.
+13-1	569-570	E	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	_	_	_	_	
+13-2	570-571	:	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	_	_	_	_	
+13-3	572-577	Genau	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	_	_	_	_	
+13-4	577-578	,	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	_	_	_	_	
+13-5	579-586	richtig	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	_	_	_	_	
+13-6	586-587	.	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	_	_	_	_	
+
+#Text=L: Genau.
+14-1	588-589	L	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	_	_	_	_	
+14-2	589-590	:	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	_	_	_	_	
+14-3	591-596	Genau	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[23]	*[23]	*[23]	Nicht-festgelegte Aufmerksamkeitsreaktion[23]	
+14-4	596-597	.	*[8]	*[8]	*[8]	*[8]	Informationsphase[8]	*[8]	*[8]	*[23]	*[23]	*[23]	Nicht-festgelegte Aufmerksamkeitsreaktion[23]	
+
+#Text=E (glz.): Also er war sehr frustriert drüber und versteht es selber überhaupt nicht.
+15-1	598-599	E	_	_	_	_	_	_	_	_	_	_	_	
+15-2	600-601	(	_	_	_	_	_	_	_	_	_	_	_	
+15-3	601-604	glz	_	_	_	_	_	_	_	_	_	_	_	
+15-4	604-605	.	_	_	_	_	_	_	_	_	_	_	_	
+15-5	605-606	)	_	_	_	_	_	_	_	_	_	_	_	
+15-6	606-607	:	_	_	_	_	_	_	_	_	_	_	_	
+15-7	608-612	Also	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-8	613-615	er	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-9	616-619	war	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-10	620-624	sehr	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-11	625-635	frustriert	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-12	636-642	drüber	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-13	643-646	und	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-14	647-655	versteht	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-15	656-658	es	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-16	659-665	selber	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-17	666-675	überhaupt	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-18	676-681	nicht	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+15-19	681-682	.	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+
+#Text=L: Weder Sie noch Ihr Sohn verstehen, warum es zu dieser Note gekommen ist.
+16-1	683-684	L	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+16-2	684-685	:	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+16-3	686-691	Weder	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-4	692-695	Sie	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-5	696-700	noch	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-6	701-704	Ihr	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-7	705-709	Sohn	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-8	710-719	verstehen	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-9	719-720	,	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-10	721-726	warum	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-11	727-729	es	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-12	730-732	zu	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-13	733-739	dieser	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-14	740-744	Note	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-15	745-753	gekommen	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-16	754-757	ist	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+16-17	757-758	.	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[24]	Paraphrasieren[24]	*[24]	*[24]	
+
+#Text=E: Genau, richtig.
+17-1	759-760	E	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+17-2	760-761	:	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+17-3	762-767	Genau	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+17-4	767-768	,	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+17-5	769-776	richtig	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+17-6	776-777	.	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+
+#Text=L (glz.): Okay, wenn Sie möchten, kann ich Ihnen gerne ein bisschen ausführen.
+18-1	778-779	L	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+18-2	780-781	(	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+18-3	781-784	glz	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+18-4	784-785	.	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+18-5	785-786	)	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+18-6	786-787	:	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+18-7	788-792	Okay	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-8	792-793	,	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-9	794-798	wenn	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-10	799-802	Sie	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-11	803-810	möchten	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-12	810-811	,	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-13	812-816	kann	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-14	817-820	ich	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-15	821-826	Ihnen	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-16	827-832	gerne	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-17	833-836	ein	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-18	837-845	bisschen	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-19	846-855	ausführen	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[25]	*[25]	Strukturieren[25]	*[25]	
+18-20	855-856	.	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+
+#Text=L (glz.): Erst wie ich allgemein meine Noten verteile und dann vielleicht noch ein paar Sachen zum konkreten Fall sagen, wenn Sie das möchten.
+19-1	857-858	L	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+19-2	859-860	(	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+19-3	860-863	glz	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+19-4	863-864	.	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+19-5	864-865	)	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+19-6	865-866	:	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+19-7	867-871	Erst	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-8	872-875	wie	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-9	876-879	ich	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-10	880-889	allgemein	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-11	890-895	meine	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-12	896-901	Noten	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-13	902-910	verteile	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-14	911-914	und	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-15	915-919	dann	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-16	920-930	vielleicht	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-17	931-935	noch	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-18	936-939	ein	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-19	940-944	paar	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-20	945-951	Sachen	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-21	952-955	zum	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-22	956-965	konkreten	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-23	966-970	Fall	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-24	971-976	sagen	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-25	976-977	,	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-26	978-982	wenn	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-27	983-986	Sie	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-28	987-990	das	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-29	991-998	möchten	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+19-30	998-999	.	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	*[26]	*[26]	Strukturieren[26]	*[26]	
+
+#Text=E: Okay, super, dann starten Sie doch mal.
+20-1	1000-1001	E	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+20-2	1001-1002	:	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+20-3	1003-1007	Okay	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+20-4	1007-1008	,	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+20-5	1009-1014	super	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+20-6	1014-1015	,	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+20-7	1016-1020	dann	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+20-8	1021-1028	starten	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+20-9	1029-1032	Sie	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+20-10	1033-1037	doch	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+20-11	1038-1041	mal	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+20-12	1041-1042	.	*[9]	*[9]	*[9]	*[9]	Informationsphase[9]	*[9]	*[9]	_	_	_	_	
+
+#Text=L: Gut, also im Sportunterricht gibt es verschiedene Kriterien, die mit auf die Notengebung einen Einfluss nehmen.
+21-1	1043-1044	L	_	_	_	_	_	_	_	_	_	_	_	
+21-2	1044-1045	:	_	_	_	_	_	_	_	_	_	_	_	
+21-3	1046-1049	Gut	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-4	1049-1050	,	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-5	1051-1055	also	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-6	1056-1058	im	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-7	1059-1074	Sportunterricht	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-8	1075-1079	gibt	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-9	1080-1082	es	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-10	1083-1095	verschiedene	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-11	1096-1105	Kriterien	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-12	1105-1106	,	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-13	1107-1110	die	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-14	1111-1114	mit	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-15	1115-1118	auf	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-16	1119-1122	die	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-17	1123-1134	Notengebung	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-18	1135-1140	einen	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-19	1141-1149	Einfluss	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-20	1150-1156	nehmen	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+21-21	1156-1157	.	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[27]	*[27]	Strukturieren[27]	*[27]	
+
+#Text=L: Zum einen ist es natürlich die Ausführung, zum Beispiel der Übung.
+22-1	1158-1159	L	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+22-2	1159-1160	:	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+22-3	1161-1164	Zum	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-4	1165-1170	einen	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-5	1171-1174	ist	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-6	1175-1177	es	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-7	1178-1187	natürlich	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-8	1188-1191	die	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-9	1192-1202	Ausführung	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-10	1202-1203	,	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-11	1204-1207	zum	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-12	1208-1216	Beispiel	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-13	1217-1220	der	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-14	1221-1226	Übung	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+22-15	1226-1227	.	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[28]	Paraphrasieren[28]	*[28]	*[28]	
+
+#Text=L: In dem konkreten Fall war es jetzt Trampolinspringen.
+23-1	1228-1229	L	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+23-2	1229-1230	:	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+23-3	1231-1233	In	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[29]	Paraphrasieren[29]	*[29]	*[29]	
+23-4	1234-1237	dem	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[29]	Paraphrasieren[29]	*[29]	*[29]	
+23-5	1238-1247	konkreten	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[29]	Paraphrasieren[29]	*[29]	*[29]	
+23-6	1248-1252	Fall	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[29]	Paraphrasieren[29]	*[29]	*[29]	
+23-7	1253-1256	war	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[29]	Paraphrasieren[29]	*[29]	*[29]	
+23-8	1257-1259	es	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[29]	Paraphrasieren[29]	*[29]	*[29]	
+23-9	1260-1265	jetzt	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[29]	Paraphrasieren[29]	*[29]	*[29]	
+23-10	1266-1283	Trampolinspringen	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[29]	Paraphrasieren[29]	*[29]	*[29]	
+23-11	1283-1284	.	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[29]	Paraphrasieren[29]	*[29]	*[29]	
+
+#Text=L: Was aber auch immer mit einfließt, ist der ordnungsgemäße Gebrauch der Sportgeräte.
+24-1	1285-1286	L	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+24-2	1286-1287	:	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+24-3	1288-1291	Was	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-4	1292-1296	aber	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-5	1297-1301	auch	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-6	1302-1307	immer	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-7	1308-1311	mit	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-8	1312-1321	einfließt	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-9	1321-1322	,	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-10	1323-1326	ist	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-11	1327-1330	der	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-12	1331-1345	ordnungsgemäße	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-13	1346-1354	Gebrauch	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-14	1355-1358	der	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-15	1359-1370	Sportgeräte	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+24-16	1370-1371	.	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[30]	Paraphrasieren[30]	*[30]	*[30]	
+
+#Text=L: Und damit im Zusammenhang ist auch immer die Sicherheit, also dass die Sportgeräte richtig benutzt werden und dass es dadurch zu keinen Verletzungen kommt und so weiter.
+25-1	1372-1373	L	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+25-2	1373-1374	:	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+25-3	1375-1378	Und	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-4	1379-1384	damit	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-5	1385-1387	im	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-6	1388-1400	Zusammenhang	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-7	1401-1404	ist	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-8	1405-1409	auch	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-9	1410-1415	immer	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-10	1416-1419	die	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-11	1420-1430	Sicherheit	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-12	1430-1431	,	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-13	1432-1436	also	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-14	1437-1441	dass	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-15	1442-1445	die	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-16	1446-1457	Sportgeräte	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-17	1458-1465	richtig	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-18	1466-1473	benutzt	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-19	1474-1480	werden	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-20	1481-1484	und	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-21	1485-1489	dass	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-22	1490-1492	es	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-23	1493-1500	dadurch	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-24	1501-1503	zu	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-25	1504-1510	keinen	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-26	1511-1523	Verletzungen	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-27	1524-1529	kommt	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-28	1530-1533	und	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-29	1534-1536	so	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-30	1537-1543	weiter	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+25-31	1543-1544	.	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[31]	Paraphrasieren[31]	*[31]	*[31]	
+
+#Text=L: Und das, jetzt mache ich direkt den Übergang, ist auch der ausschlaggebende Punkt bei der letzten Note gewesen.
+26-1	1545-1546	L	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+26-2	1546-1547	:	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+26-3	1548-1551	Und	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-4	1552-1555	das	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-5	1555-1556	,	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-6	1557-1562	jetzt	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-7	1563-1568	mache	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-8	1569-1572	ich	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-9	1573-1579	direkt	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-10	1580-1583	den	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-11	1584-1592	Übergang	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-12	1592-1593	,	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-13	1594-1597	ist	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-14	1598-1602	auch	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-15	1603-1606	der	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-16	1607-1623	ausschlaggebende	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-17	1624-1629	Punkt	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-18	1630-1633	bei	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-19	1634-1637	der	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-20	1638-1645	letzten	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-21	1646-1650	Note	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-22	1651-1658	gewesen	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+26-23	1658-1659	.	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[32]	*[32]	Strukturieren[32]	*[32]	
+
+#Text=L: Denn ihr Sohn ist durchaus in der Lage, auch im Sporthinterricht gute Leistungen zu erbringen.
+27-1	1660-1661	L	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+27-2	1661-1662	:	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+27-3	1663-1667	Denn	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-4	1668-1671	ihr	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-5	1672-1676	Sohn	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-6	1677-1680	ist	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-7	1681-1689	durchaus	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-8	1690-1692	in	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-9	1693-1696	der	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-10	1697-1701	Lage	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-11	1701-1702	,	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-12	1703-1707	auch	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-13	1708-1710	im	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-14	1711-1727	Sporthinterricht	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-15	1728-1732	gute	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-16	1733-1743	Leistungen	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-17	1744-1746	zu	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-18	1747-1756	erbringen	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+27-19	1756-1757	.	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[33]	*[33]	*[33]	Statement[33]	
+
+#Text=L: Das sehe ich genauso und das sagen auch seine Noten aus der Vergangenheit.
+28-1	1758-1759	L	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+28-2	1759-1760	:	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+28-3	1761-1764	Das	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-4	1765-1769	sehe	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-5	1770-1773	ich	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-6	1774-1781	genauso	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-7	1782-1785	und	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-8	1786-1789	das	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-9	1790-1795	sagen	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-10	1796-1800	auch	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-11	1801-1806	seine	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-12	1807-1812	Noten	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-13	1813-1816	aus	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-14	1817-1820	der	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-15	1821-1834	Vergangenheit	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+28-16	1834-1835	.	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[34]	*[34]	*[34]	Statement[34]	
+
+#Text=L: Allerdings ist es eben bei diesem Punkt ordnungsgemäßer Gebrauch zu einem Vorfall gekommen, bei dem sich eine andere Mitschülerin sogar verletzt hat.
+29-1	1836-1837	L	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+29-2	1837-1838	:	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	_	_	_	_	
+29-3	1839-1849	Allerdings	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-4	1850-1853	ist	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-5	1854-1856	es	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-6	1857-1861	eben	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-7	1862-1865	bei	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-8	1866-1872	diesem	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-9	1873-1878	Punkt	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-10	1879-1894	ordnungsgemäßer	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-11	1895-1903	Gebrauch	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-12	1904-1906	zu	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-13	1907-1912	einem	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-14	1913-1920	Vorfall	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-15	1921-1929	gekommen	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-16	1929-1930	,	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-17	1931-1934	bei	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-18	1935-1938	dem	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-19	1939-1943	sich	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-20	1944-1948	eine	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-21	1949-1955	andere	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-22	1956-1968	Mitschülerin	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-23	1969-1974	sogar	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-24	1975-1983	verletzt	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-25	1984-1987	hat	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+29-26	1987-1988	.	*[10]	*[10]	*[10]	*[10]	Informationsphase[10]	*[10]	*[10]	*[35]	Paraphrasieren[35]	*[35]	*[35]	
+
+#Text=E: Aber konnte mein Sohn da was dafür?
+30-1	1989-1990	E	_	_	_	_	_	_	_	_	_	_	_	
+30-2	1990-1991	:	_	_	_	_	_	_	_	_	_	_	_	
+30-3	1992-1996	Aber	*[11]	*[11]	Argumentationsphase[11]	*[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-4	1997-2003	konnte	*[11]	*[11]	Argumentationsphase[11]	*[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-5	2004-2008	mein	*[11]	*[11]	Argumentationsphase[11]	*[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-6	2009-2013	Sohn	*[11]	*[11]	Argumentationsphase[11]	*[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-7	2014-2016	da	*[11]	*[11]	Argumentationsphase[11]	*[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-8	2017-2020	was	*[11]	*[11]	Argumentationsphase[11]	*[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-9	2021-2026	dafür	*[11]	*[11]	Argumentationsphase[11]	*[11]	*[11]	*[11]	*[11]	_	_	_	_	
+30-10	2026-2027	?	*[11]	*[11]	Argumentationsphase[11]	*[11]	*[11]	*[11]	*[11]	_	_	_	_	
+
+#Text=E: Das kann ich mir überhaupt nicht vorstellen.
+31-1	2028-2029	E	_	_	_	_	_	_	_	_	_	_	_	
+31-2	2029-2030	:	_	_	_	_	_	_	_	_	_	_	_	
+31-3	2031-2034	Das	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+31-4	2035-2039	kann	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+31-5	2040-2043	ich	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+31-6	2044-2047	mir	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+31-7	2048-2057	überhaupt	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+31-8	2058-2063	nicht	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+31-9	2064-2074	vorstellen	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+31-10	2074-2075	.	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+
+#Text=E: Also ich meine, das sind halt dann die Geräte.
+32-1	2076-2077	E	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-2	2077-2078	:	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-3	2079-2083	Also	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-4	2084-2087	ich	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-5	2088-2093	meine	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-6	2093-2094	,	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-7	2095-2098	das	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-8	2099-2103	sind	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-9	2104-2108	halt	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-10	2109-2113	dann	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-11	2114-2117	die	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-12	2118-2124	Geräte	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+32-13	2124-2125	.	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+
+#Text=E: Mein Sohn, der ist schon sehr verantwortungsbewusst.
+33-1	2126-2127	E	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+33-2	2127-2128	:	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+33-3	2129-2133	Mein	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+33-4	2134-2138	Sohn	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+33-5	2138-2139	,	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+33-6	2140-2143	der	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+33-7	2144-2147	ist	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+33-8	2148-2153	schon	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+33-9	2154-2158	sehr	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+33-10	2159-2180	verantwortungsbewusst	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+33-11	2180-2181	.	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+
+#Text=E: Also dass ihm da sowas passiert, nein, das glaube ich nicht.
+34-1	2182-2183	E	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-2	2183-2184	:	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-3	2185-2189	Also	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-4	2190-2194	dass	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-5	2195-2198	ihm	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-6	2199-2201	da	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-7	2202-2207	sowas	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-8	2208-2216	passiert	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-9	2216-2217	,	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-10	2218-2222	nein	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-11	2222-2223	,	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-12	2224-2227	das	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-13	2228-2234	glaube	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-14	2235-2238	ich	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-15	2239-2244	nicht	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+34-16	2244-2245	.	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+
+#Text=L: Ich hab ihren Sohn im Unterricht auch als verantwortungsbewusst wahrgenommen.
+35-1	2246-2247	L	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+35-2	2247-2248	:	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+35-3	2249-2252	Ich	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[36]	*[36]	*[36]	Statement[36]	
+35-4	2253-2256	hab	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[36]	*[36]	*[36]	Statement[36]	
+35-5	2257-2262	ihren	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[36]	*[36]	*[36]	Statement[36]	
+35-6	2263-2267	Sohn	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[36]	*[36]	*[36]	Statement[36]	
+35-7	2268-2270	im	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[36]	*[36]	*[36]	Statement[36]	
+35-8	2271-2281	Unterricht	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[36]	*[36]	*[36]	Statement[36]	
+35-9	2282-2286	auch	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[36]	*[36]	*[36]	Statement[36]	
+35-10	2287-2290	als	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[36]	*[36]	*[36]	Statement[36]	
+35-11	2291-2312	verantwortungsbewusst	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[36]	*[36]	*[36]	Statement[36]	
+35-12	2313-2325	wahrgenommen	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[36]	*[36]	*[36]	Statement[36]	
+35-13	2325-2326	.	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[36]	*[36]	*[36]	Statement[36]	
+
+#Text=L: Aber besonders in letzter Zeit habe ich auch mit wahrgenommen, dass er ...
+36-1	2327-2328	L	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+36-2	2328-2329	:	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+36-3	2330-2334	Aber	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-4	2335-2344	besonders	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-5	2345-2347	in	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-6	2348-2355	letzter	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-7	2356-2360	Zeit	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-8	2361-2365	habe	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-9	2366-2369	ich	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-10	2370-2374	auch	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-11	2375-2378	mit	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-12	2379-2391	wahrgenommen	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-13	2391-2392	,	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-14	2393-2397	dass	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-15	2398-2400	er	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-16	2401-2402	.	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-17	2402-2403	.	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+36-18	2403-2404	.	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[37]	Paraphrasieren[37]	*[37]	*[37]	
+
+#Text=L: ein bisschen nach der Aufmerksamkeit der anderen Schüler sucht, ein bisschen mehr dazu anstachelt, dass die anderen Leute sich nicht so gut verhalten.
+37-1	2405-2406	L	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+37-2	2406-2407	:	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+37-3	2408-2411	ein	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-4	2412-2420	bisschen	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-5	2421-2425	nach	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-6	2426-2429	der	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-7	2430-2444	Aufmerksamkeit	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-8	2445-2448	der	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-9	2449-2456	anderen	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-10	2457-2464	Schüler	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-11	2465-2470	sucht	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-12	2470-2471	,	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-13	2472-2475	ein	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-14	2476-2484	bisschen	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-15	2485-2489	mehr	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-16	2490-2494	dazu	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-17	2495-2505	anstachelt	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-18	2505-2506	,	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-19	2507-2511	dass	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-20	2512-2515	die	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-21	2516-2523	anderen	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-22	2524-2529	Leute	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-23	2530-2534	sich	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-24	2535-2540	nicht	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-25	2541-2543	so	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-26	2544-2547	gut	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-27	2548-2557	verhalten	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[38]	Paraphrasieren[38]	*[38]	*[38]	
+37-28	2557-2558	.	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+
+#Text=L: Zum Beispiel ist es auch passiert, dass im Sportunterricht, also im Umkleideraum, hat er die anderen zum Beispiel dazu angestachelt, oberkörperfrei über den Gang zu laufen.
+38-1	2559-2560	L	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+38-2	2560-2561	:	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+38-3	2562-2565	Zum	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-4	2566-2574	Beispiel	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-5	2575-2578	ist	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-6	2579-2581	es	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-7	2582-2586	auch	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-8	2587-2595	passiert	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-9	2595-2596	,	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-10	2597-2601	dass	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-11	2602-2604	im	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-12	2605-2620	Sportunterricht	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-13	2620-2621	,	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-14	2622-2626	also	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-15	2627-2629	im	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-16	2630-2642	Umkleideraum	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-17	2642-2643	,	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-18	2644-2647	hat	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-19	2648-2650	er	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-20	2651-2654	die	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-21	2655-2662	anderen	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-22	2663-2666	zum	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-23	2667-2675	Beispiel	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-24	2676-2680	dazu	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-25	2681-2693	angestachelt	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-26	2693-2694	,	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-27	2695-2709	oberkörperfrei	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-28	2710-2714	über	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-29	2715-2718	den	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-30	2719-2723	Gang	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-31	2724-2726	zu	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-32	2727-2733	laufen	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+38-33	2733-2734	.	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	*[39]	Paraphrasieren[39]	*[39]	*[39]	
+
+#Text=E: Wirklich jetzt?
+39-1	2735-2736	E	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+39-2	2736-2737	:	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+39-3	2738-2746	Wirklich	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+39-4	2747-2752	jetzt	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+39-5	2752-2753	?	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+
+#Text=E: Aber haben Sie da mit meinem Sohn Arschl drüber geredet?
+40-1	2754-2755	E	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-2	2755-2756	:	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-3	2757-2761	Aber	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-4	2762-2767	haben	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-5	2768-2771	Sie	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-6	2772-2774	da	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-7	2775-2778	mit	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-8	2779-2785	meinem	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-9	2786-2790	Sohn	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-10	2791-2797	Arschl	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-11	2798-2804	drüber	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-12	2805-2812	geredet	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+40-13	2812-2813	?	*[12]	*[12]	Argumentationsphase[12]	*[12]	*[12]	*[12]	*[12]	_	_	_	_	
+
+#Text=L: Ich habe mit ihm schon drüber gesprochen.
+41-1	2814-2815	L	_	_	_	_	_	_	_	_	_	_	_	
+41-2	2815-2816	:	_	_	_	_	_	_	_	_	_	_	_	
+41-3	2817-2820	Ich	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[40]	*[40]	*[40]	Statement[40]	
+41-4	2821-2825	habe	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[40]	*[40]	*[40]	Statement[40]	
+41-5	2826-2829	mit	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[40]	*[40]	*[40]	Statement[40]	
+41-6	2830-2833	ihm	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[40]	*[40]	*[40]	Statement[40]	
+41-7	2834-2839	schon	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[40]	*[40]	*[40]	Statement[40]	
+41-8	2840-2846	drüber	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[40]	*[40]	*[40]	Statement[40]	
+41-9	2847-2857	gesprochen	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[40]	*[40]	*[40]	Statement[40]	
+41-10	2857-2858	.	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[40]	*[40]	*[40]	Statement[40]	
+
+#Text=L: Also ich habe ihn... Okay.
+42-1	2859-2860	L	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+42-2	2860-2861	:	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+42-3	2862-2866	Also	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[41]	*[41]	*[41]	Statement[41]	
+42-4	2867-2870	ich	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[41]	*[41]	*[41]	Statement[41]	
+42-5	2871-2875	habe	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[41]	*[41]	*[41]	Statement[41]	
+42-6	2876-2879	ihn	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[41]	*[41]	*[41]	Statement[41]	
+42-7	2879-2880	.	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[41]	*[41]	*[41]	Statement[41]	
+42-8	2880-2881	.	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[41]	*[41]	*[41]	Statement[41]	
+42-9	2881-2882	.	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[41]	*[41]	*[41]	Statement[41]	
+42-10	2883-2887	Okay	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[41]	*[41]	*[41]	Statement[41]	
+42-11	2887-2888	.	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[41]	*[41]	*[41]	Statement[41]	
+
+#Text=E (glz.): Okay, da hat er mir noch nichts erzählt.
+43-1	2889-2890	E	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-2	2891-2892	(	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-3	2892-2895	glz	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-4	2895-2896	.	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-5	2896-2897	)	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-6	2897-2898	:	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-7	2899-2903	Okay	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-8	2903-2904	,	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-9	2905-2907	da	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-10	2908-2911	hat	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-11	2912-2914	er	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-12	2915-2918	mir	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-13	2919-2923	noch	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-14	2924-2930	nichts	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-15	2931-2938	erzählt	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+43-16	2938-2939	.	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+
+#Text=L: Ja.
+44-1	2940-2941	L	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	_	_	_	_	
+44-2	2941-2942	:	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[42]	*[42]	*[42]	Nicht-festgelegte Aufmerksamkeitsreaktion[42]	
+44-3	2943-2945	Ja	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[42]	*[42]	*[42]	Nicht-festgelegte Aufmerksamkeitsreaktion[42]	
+44-4	2945-2946	.	*[13]	*[13]	Argumentationsphase[13]	*[13]	*[13]	*[13]	*[13]	*[42]	*[42]	*[42]	Nicht-festgelegte Aufmerksamkeitsreaktion[42]	
+
+#Text=L: Haben Sie sonst noch weitere Fragen?
+45-1	2947-2948	L	_	_	_	_	_	_	_	_	_	_	_	
+45-2	2948-2949	:	_	_	_	_	_	_	_	_	_	_	_	
+45-3	2950-2955	Haben	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[43]	*[43]	*[43]	Klärende Frage[43]	
+45-4	2956-2959	Sie	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[43]	*[43]	*[43]	Klärende Frage[43]	
+45-5	2960-2965	sonst	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[43]	*[43]	*[43]	Klärende Frage[43]	
+45-6	2966-2970	noch	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[43]	*[43]	*[43]	Klärende Frage[43]	
+45-7	2971-2978	weitere	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[43]	*[43]	*[43]	Klärende Frage[43]	
+45-8	2979-2985	Fragen	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[43]	*[43]	*[43]	Klärende Frage[43]	
+45-9	2985-2986	?	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[43]	*[43]	*[43]	Klärende Frage[43]	
+
+#Text=L: Also ich kann Ihnen bloß sagen, wie ich Ihren Sohn wahrnehme.
+46-1	2987-2988	L	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	_	_	_	_	
+46-2	2988-2989	:	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	_	_	_	_	
+46-3	2990-2994	Also	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-4	2995-2998	ich	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-5	2999-3003	kann	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-6	3004-3009	Ihnen	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-7	3010-3014	bloß	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-8	3015-3020	sagen	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-9	3020-3021	,	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-10	3022-3025	wie	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-11	3026-3029	ich	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-12	3030-3035	Ihren	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-13	3036-3040	Sohn	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-14	3041-3050	wahrnehme	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+46-15	3050-3051	.	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[44]	*[44]	*[44]	Statement[44]	
+
+#Text=L: Und...
+47-1	3052-3053	L	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	_	_	_	_	
+47-2	3053-3054	:	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	_	_	_	_	
+47-3	3055-3058	Und	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[45]	*[45]	Strukturieren[45]	*[45]	
+47-4	3058-3059	.	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[45]	*[45]	Strukturieren[45]	*[45]	
+47-5	3059-3060	.	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[45]	*[45]	Strukturieren[45]	*[45]	
+47-6	3060-3061	.	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[45]	*[45]	Strukturieren[45]	*[45]	
+
+#Text=L: Was für Gründe dieses Verhalten hat, das müsste man vielleicht in einem weiteren Gespräch dann noch auswählen oder ausdiskutieren.
+48-1	3062-3063	L	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	_	_	_	_	
+48-2	3063-3064	:	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	_	_	_	_	
+48-3	3065-3068	Was	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-4	3069-3072	für	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-5	3073-3079	Gründe	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-6	3080-3086	dieses	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-7	3087-3096	Verhalten	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-8	3097-3100	hat	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-9	3100-3101	,	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-10	3102-3105	das	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-11	3106-3112	müsste	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-12	3113-3116	man	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-13	3117-3127	vielleicht	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-14	3128-3130	in	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-15	3131-3136	einem	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-16	3137-3145	weiteren	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-17	3146-3154	Gespräch	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-18	3155-3159	dann	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-19	3160-3164	noch	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-20	3165-3174	auswählen	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-21	3175-3179	oder	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-22	3180-3194	ausdiskutieren	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+48-23	3194-3195	.	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[46]	*[46]	Strukturieren[46]	*[46]	
+
+#Text=L: Aber ich glaube trotzdem, dass ihr Sohn durchaus in der Lage ist, auch gute Noten zu erreichen.
+49-1	3196-3197	L	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	_	_	_	_	
+49-2	3197-3198	:	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	_	_	_	_	
+49-3	3199-3203	Aber	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-4	3204-3207	ich	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-5	3208-3214	glaube	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-6	3215-3223	trotzdem	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-7	3223-3224	,	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-8	3225-3229	dass	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-9	3230-3233	ihr	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-10	3234-3238	Sohn	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-11	3239-3247	durchaus	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-12	3248-3250	in	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-13	3251-3254	der	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-14	3255-3259	Lage	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-15	3260-3263	ist	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-16	3263-3264	,	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-17	3265-3269	auch	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-18	3270-3274	gute	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-19	3275-3280	Noten	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-20	3281-3283	zu	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-21	3284-3293	erreichen	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+49-22	3293-3294	.	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[47]	*[47]	*[47]	Statement[47]	
+
+#Text=L: Er müsste sich dafür aber ein bisschen mehr wieder auf die wesentlichen Dinge fokussieren.
+50-1	3295-3296	L	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	_	_	_	_	
+50-2	3296-3297	:	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	_	_	_	_	
+50-3	3298-3300	Er	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-4	3301-3307	müsste	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-5	3308-3312	sich	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-6	3313-3318	dafür	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-7	3319-3323	aber	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-8	3324-3327	ein	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-9	3328-3336	bisschen	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-10	3337-3341	mehr	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-11	3342-3348	wieder	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-12	3349-3352	auf	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-13	3353-3356	die	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-14	3357-3369	wesentlichen	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-15	3370-3375	Dinge	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-16	3376-3387	fokussieren	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+50-17	3387-3388	.	*[14]	*[14]	*[14]	Beschlussphase[14]	*[14]	*[14]	*[14]	*[48]	*[48]	*[48]	Statement[48]	
+
+#Text=E: Okay, na gut, ich nehme das jetzt mal so mit.
+51-1	3389-3390	E	_	_	_	_	_	_	_	_	_	_	_	
+51-2	3390-3391	:	_	_	_	_	_	_	_	_	_	_	_	
+51-3	3392-3396	Okay	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-4	3396-3397	,	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-5	3398-3400	na	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-6	3401-3404	gut	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-7	3404-3405	,	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-8	3406-3409	ich	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-9	3410-3415	nehme	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-10	3416-3419	das	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-11	3420-3425	jetzt	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-12	3426-3429	mal	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-13	3430-3432	so	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-14	3433-3436	mit	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+51-15	3436-3437	.	Sonstiges[15]	*[15]	*[15]	*[15]	*[15]	*[15]	*[15]	_	_	_	_	
+
+#Text=E: Ich muss jetzt eh wieder los.
+52-1	3438-3439	E	_	_	_	_	_	_	_	_	_	_	_	
+52-2	3439-3440	:	_	_	_	_	_	_	_	_	_	_	_	
+52-3	3441-3444	Ich	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+52-4	3445-3449	muss	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+52-5	3450-3455	jetzt	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+52-6	3456-3458	eh	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+52-7	3459-3465	wieder	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+52-8	3466-3469	los	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+52-9	3469-3470	.	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+
+#Text=E: Ich verstehe es nicht, aber gut.
+53-1	3471-3472	E	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+53-2	3472-3473	:	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+53-3	3474-3477	Ich	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+53-4	3478-3486	verstehe	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+53-5	3487-3489	es	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+53-6	3490-3495	nicht	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+53-7	3495-3496	,	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+53-8	3497-3501	aber	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+53-9	3502-3505	gut	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+53-10	3505-3506	.	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+
+#Text=E: Ich glaube, mein Sohn versteht es auch nicht.
+54-1	3507-3508	E	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+54-2	3508-3509	:	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+54-3	3510-3513	Ich	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+54-4	3514-3520	glaube	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+54-5	3520-3521	,	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+54-6	3522-3526	mein	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+54-7	3527-3531	Sohn	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+54-8	3532-3540	versteht	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+54-9	3541-3543	es	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+54-10	3544-3548	auch	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+54-11	3549-3554	nicht	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+54-12	3554-3555	.	Sonstiges[16]	*[16]	*[16]	*[16]	*[16]	*[16]	*[16]	_	_	_	_	
+
+#Text=L (glz.): Ich stehe Ihnen gern für ein weiteres Gespräch noch mal zur Verfügung, falls da noch mal Bedarf besteht.
+55-1	3556-3557	L	_	_	_	_	_	_	_	_	_	_	_	
+55-2	3558-3559	(	_	_	_	_	_	_	_	_	_	_	_	
+55-3	3559-3562	glz	_	_	_	_	_	_	_	_	_	_	_	
+55-4	3562-3563	.	_	_	_	_	_	_	_	_	_	_	_	
+55-5	3563-3564	)	_	_	_	_	_	_	_	_	_	_	_	
+55-6	3564-3565	:	_	_	_	_	_	_	_	_	_	_	_	
+55-7	3566-3569	Ich	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-8	3570-3575	stehe	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-9	3576-3581	Ihnen	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-10	3582-3586	gern	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-11	3587-3590	für	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-12	3591-3594	ein	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-13	3595-3603	weiteres	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-14	3604-3612	Gespräch	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-15	3613-3617	noch	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-16	3618-3621	mal	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-17	3622-3625	zur	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-18	3626-3635	Verfügung	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-19	3635-3636	,	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-20	3637-3642	falls	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-21	3643-3645	da	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-22	3646-3650	noch	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-23	3651-3654	mal	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-24	3655-3661	Bedarf	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-25	3662-3669	besteht	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+55-26	3669-3670	.	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[49]	*[49]	Strukturieren[49]	*[49]	
+
+#Text=E: Ich glaube, das braut es nicht.
+56-1	3671-3672	E	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+56-2	3672-3673	:	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+56-3	3674-3677	Ich	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+56-4	3678-3684	glaube	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+56-5	3684-3685	,	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+56-6	3686-3689	das	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+56-7	3690-3695	braut	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+56-8	3696-3698	es	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+56-9	3699-3704	nicht	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+56-10	3704-3705	.	Sonstiges[17]	*[17]	*[17]	*[17]	*[17]	*[17]	*[17]	_	_	_	_	
+
+#Text=E: Danke, tschüss.
+57-1	3706-3707	E	_	_	_	_	_	_	_	_	_	_	_	
+57-2	3707-3708	:	_	_	_	_	_	_	_	_	_	_	_	
+57-3	3709-3714	Danke	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+57-4	3714-3715	,	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+57-5	3716-3723	tschüss	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+57-6	3723-3724	.	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+
+#Text=L (glz.): Tschüss.
+58-1	3725-3726	L	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+58-2	3727-3728	(	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+58-3	3728-3731	glz	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+58-4	3731-3732	.	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+58-5	3732-3733	)	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+58-6	3733-3734	:	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+58-7	3735-3742	Tschüss	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
+58-8	3742-3743	.	Verabschiedung[18]	*[18]	*[18]	*[18]	*[18]	*[18]	*[18]	_	_	_	_	
